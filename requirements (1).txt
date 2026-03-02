@@ -1,0 +1,4 @@
+vosk
+TTS
+joblib
+scikit-learn
